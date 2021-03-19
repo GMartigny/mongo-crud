@@ -1,6 +1,6 @@
 {
     "name": "@gmartigny/mongo-crud",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "CRUD utility for mongoDB",
     "main": "src/index.js",
     "private": false,
