@@ -1,9 +1,11 @@
 {
     "name": "@gmartigny/mongo-crud",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "CRUD utility for mongoDB",
     "main": "src/index.js",
-    "files": ["src"],
+    "files": [
+        "src"
+    ],
     "publishConfig": {
         "access": "public"
     },
