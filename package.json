@@ -1,0 +1,22 @@
+{
+    "name": "@gmartigny/mongo-crud",
+    "version": "0.0.0",
+    "description": "CRUD utility for mongoDB",
+    "main": "src/index.js",
+    "private": false,
+    "scripts": {
+        "test": "ava -vT"
+    },
+    "eslintConfig": {
+        "extends": "@gmartigny/eslint-config"
+    },
+    "author": "GMartigny",
+    "license": "MIT",
+    "devDependencies": {
+        "@gmartigny/eslint-config": "^1.6.0",
+        "ava": "^3.15.0",
+        "eslint": "^7.21.0",
+        "mongodb": "^3.6.5",
+        "mongodb-memory-server": "^6.9.6"
+    }
+}
