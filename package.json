@@ -3,7 +3,10 @@
     "version": "0.1.0",
     "description": "CRUD utility for mongoDB",
     "main": "src/index.js",
-    "private": false,
+    "files": ["src"],
+    "publishConfig": {
+        "access": "public"
+    },
     "scripts": {
         "test": "ava -vT"
     },
