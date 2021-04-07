@@ -2,6 +2,9 @@
     "name": "@gmartigny/mongo-crud",
     "version": "0.1.1",
     "description": "CRUD utility for mongoDB",
+    "keywords": [
+        "toolbox"
+    ],
     "main": "src/index.js",
     "files": [
         "src"
@@ -23,5 +26,13 @@
         "eslint": "^7.21.0",
         "mongodb": "^3.6.5",
         "mongodb-memory-server": "^6.9.6"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GMartigny/mongo-crud.git"
+    },
+    "bugs": {
+        "url": "https://github.com/GMartigny/mongo-crud/issues"
+    },
+    "homepage": "https://github.com/GMartigny/mongo-crud#readme"
 }
